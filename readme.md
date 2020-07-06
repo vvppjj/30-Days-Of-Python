@@ -381,4 +381,5 @@ To run the python file check the image below. You can run the python file either
 
 🎉 CONGRATULATIONS ! 🎉
 
+
 [Day 2 >>](./02_Day_Variables/02_variables.md)
