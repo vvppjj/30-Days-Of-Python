@@ -46,6 +46,8 @@
     - [Python File](#python-file)
   - [💻 Exercises - Day 1](#%f0%9f%92%bb-exercises---day-1)
 
+
+
 # 📘 Day 1
 
 ## Welcome
