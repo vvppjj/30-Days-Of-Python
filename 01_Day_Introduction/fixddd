@@ -1,1 +1,52 @@
 thisisanewday
+From root@i-nbqb16am.localdomain  Tue Jul  7 10:36:02 2020
+Return-Path: <root@i-nbqb16am.localdomain>
+X-Original-To: root
+Delivered-To: root@i-nbqb16am.localdomain
+Received: by i-nbqb16am.localdomain (Postfix, from userid 0)
+        id 1589512511B; Tue,  7 Jul 2020 10:36:02 +0800 (CST)
+From: "(Cron Daemon)" <root@i-nbqb16am.localdomain>
+To: root@i-nbqb16am.localdomain
+Subject: Cron <root@i-nbqb16am> /home/shell/pullCode.sh
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=2452>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/0>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+Message-Id: <20200707023602.1589512511B@i-nbqb16am.localdomain>
+Date: Tue,  7 Jul 2020 10:36:02 +0800 (CST)
+
+Already up-to-date.
+更新filedeploy
+
+From root@i-nbqb16am.localdomain  Tue Jul  7 10:36:03 2020
+Return-Path: <root@i-nbqb16am.localdomain>
+X-Original-To: root
+Delivered-To: root@i-nbqb16am.localdomain
+Received: by i-nbqb16am.localdomain (Postfix, from userid 0)
+        id 2A53C12511B; Tue,  7 Jul 2020 10:36:03 +0800 (CST)
+From: "(Cron Daemon)" <root@i-nbqb16am.localdomain>
+To: root@i-nbqb16am.localdomain
+Subject: Cron <root@i-nbqb16am> /home/shell/pullCodePython.sh
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=2450>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/0>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+Message-Id: <20200707023603.2A53C12511B@i-nbqb16am.localdomain>
+Date: Tue,  7 Jul 2020 10:36:03 +0800 (CST)
+
+Already up-to-date.
+更新python库
