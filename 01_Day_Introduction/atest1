@@ -1,3 +1,56 @@
 this is test
 tst
 他说他
+2020-07-07 10:18:01 parsing log efc9fe02307a738b399ca0cc479af0bf830c7d85
+2020-07-07 10:18:01 comment is
+----------
+Add files via upload        fix bug#39564 39563 39562
+----------
+2020-07-07 10:18:01 extract story: task: bug:39564
+2020-07-07 10:18:01 parsing log 8dfc60aa92e5afd5068ff08592e714d61ccefc94
+2020-07-07 10:18:01 comment is
+----------
+create testf        fix bug#39565
+----------
+2020-07-07 10:18:01 extract story: task: bug:39565
+2020-07-07 10:18:01 parsing log dbf79e049492a6c4d8a3487031f5caaf5e36affa
+2020-07-07 10:18:01 comment is
+----------
+fix        fix bug#39566
+----------
+2020-07-07 10:18:01 extract story: task: bug:39566
+2020-07-07 10:18:01
+
+repo #2: /home/code/git/python/30-Days-Of-Python finished
+2020-07-07 10:18:01 begin repo 3
+2020-07-07 10:18:01 sync branch master logs.
+2020-07-07 10:18:01 get this repo logs.
+2020-07-07 10:18:01
+
+repo #3: /home/code/git/filedeploy finished
+
+From root@i-nbqb16am.localdomain  Tue Jul  7 10:18:01 2020
+Return-Path: <root@i-nbqb16am.localdomain>
+X-Original-To: root
+Delivered-To: root@i-nbqb16am.localdomain
+Received: by i-nbqb16am.localdomain (Postfix, from userid 0)
+        id 72131125106; Tue,  7 Jul 2020 10:18:01 +0800 (CST)
+From: "(Cron Daemon)" <root@i-nbqb16am.localdomain>
+To: root@i-nbqb16am.localdomain
+Subject: Cron <root@i-nbqb16am> /home/shell/pullCode.sh
+Content-Type: text/plain; charset=UTF-8
+Auto-Submitted: auto-generated
+Precedence: bulk
+X-Cron-Env: <XDG_SESSION_ID=2397>
+X-Cron-Env: <XDG_RUNTIME_DIR=/run/user/0>
+X-Cron-Env: <LANG=en_US.UTF-8>
+X-Cron-Env: <SHELL=/bin/sh>
+X-Cron-Env: <HOME=/root>
+X-Cron-Env: <PATH=/usr/bin:/bin>
+X-Cron-Env: <LOGNAME=root>
+X-Cron-Env: <USER=root>
+Message-Id: <20200707021801.72131125106@i-nbqb16am.localdomain>
+Date: Tue,  7 Jul 2020 10:18:01 +0800 (CST)
+
+Already up-to-date.
+更新filedeploy
